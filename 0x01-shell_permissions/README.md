@@ -17,8 +17,9 @@ ALX Projects on Shell Permissions.
 
 [7-everybody](7-everybody): Adds execution permission to the owner, the group owner and the other users, to the file hello
 
-[8-James_Bond](8-James_Bond): Sets  the permission to the file hello as follows:
-Owner: no permission at all
-Group: no permission at all
-Other users: all the permissions
-    
+[8-James_Bond](8-James_Bond): Sets  the permission to the file hello as follows:  
+			      1. Owner: no permission at all  
+			      2. Group: no permission at all  
+			      3. Other users: all the permissions  
+
+[9-John_Doe](9-John_Doe): Sets the mode of the file hello to this: -rwxr-x-wx
