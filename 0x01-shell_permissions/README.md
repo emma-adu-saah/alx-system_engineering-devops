@@ -25,3 +25,6 @@ ALX Projects on Shell Permissions.
 [9-John_Doe](9-John_Doe): Sets the mode of the file hello to this: -rwxr-x-wx
 
 [10-mirror_permissions](10-mirror_permissions): Sets the mode of the file hello the same as olleh's mode.
+
+[12-directory_permissions](12-directory_permissions): Creates directory called my_dir with permissions 751 in the working directory.
+
