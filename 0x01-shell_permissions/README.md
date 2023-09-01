@@ -11,3 +11,5 @@ ALX Projects on Shell Permissions.
 
 [4-empty](4-empty): Creates an empty file called hello
 
+[5-execute](4-execute): Adds execute permission to the owner of the file hello.
+
