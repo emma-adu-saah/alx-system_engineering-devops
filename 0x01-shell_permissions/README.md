@@ -23,3 +23,5 @@ ALX Projects on Shell Permissions.
 			      3. Other users: all the permissions  
 
 [9-John_Doe](9-John_Doe): Sets the mode of the file hello to this: -rwxr-x-wx
+
+[10-mirror_permissions](10-mirror_permissions): Sets the mode of the file hello the same as olleh's mode.
