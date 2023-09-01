@@ -7,5 +7,5 @@ ALX Projects on Shell Permissions.
 
 [2-groups](2-groups): A script that prints the all the groups the current user is part of.
 
-
+[3-new_owner](3-new_owner): Changes the owner of the file hello to the user betty
 
