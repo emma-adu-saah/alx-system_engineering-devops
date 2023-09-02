@@ -31,3 +31,5 @@ ALX Projects on Shell Permissions.
 [13-change_group](13-change_group): Changes the group owner to school for the file hello
 
 [100-change_owner_and_group](100-change_owner_and_group): Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+
+[102-if_only](102-if_only): Changes the owner of the file hello to betty only if it is owned by the user guillaume
