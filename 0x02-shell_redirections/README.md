@@ -5,4 +5,5 @@
 
 2. [2-hellofile](2-hellofile): Displays the content of the /etc/passwd
 
+3. [3-twofiles](3-twofiles): Displays the content of /etc/passwd and /etc/hosts
 
